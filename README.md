@@ -17,7 +17,8 @@ Rust is much more safe and prevents undesirable behaviors.
 
 ## Usage
 
-
+Video explanation and demonstration of code:
+https://watch.screencastify.com/v/vJ2hAtMNPGHrVtJAbNSZ
 
 ## Installation
 
